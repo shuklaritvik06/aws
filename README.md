@@ -7,6 +7,8 @@
 - [ ] AWS Lambda
 - [ ] AWS Elastic Load Balancer
 - [ ] AWS Elastic Load Balancer
+- [ ] AWS SNS
+- [ ] AWS SQS
 - [ ] AWS ECR (Elastic Container Registry)
 - [ ] AWS ECS (Elastic Container Service)
 - [ ] AWS EKS (Elastic Kubernetes Service)
