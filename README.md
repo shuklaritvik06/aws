@@ -1,11 +1,11 @@
-# aws
+# AWS
 
-- [ ] IAM (Identity and Access Management)
-- [ ] AWS RDS
-- [ ] AWS DynamoDB
+- [x] IAM (Identity and Access Management)
+- [x] Amazon S3
+- [x] AWS RDS
+- [x] AWS DynamoDB
+- [x] AWS Lambda
 - [ ] AWS Neptune
-- [ ] AWS Lambda
-- [ ] AWS Elastic Load Balancer
 - [ ] AWS Elastic Load Balancer
 - [ ] AWS SNS
 - [ ] AWS SQS
@@ -16,8 +16,6 @@
 - [ ] AWS Networking (VPC)
 - [ ] AWS Security
 - [ ] AWS Route 53
-- [ ] Secure VPC Setup with EC2 Instances Project
-- [ ] Amazon S3
 - [ ] AWS CloudFormation
 - [ ] AWS CodeCommit
 - [ ] AWS CodePipeline
@@ -28,3 +26,4 @@
 - [ ] AWS Systems Manager (Secrets Manager)
 - [ ] Create Infrastructure using Terraform Project
 - [ ] AWS CloudTrail and Config
+- [ ] Secure VPC Setup with EC2 Instances Project
