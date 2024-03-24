@@ -9,14 +9,18 @@
 - [x] AWS Secrets Manager
 - [x] AWS Neptune
 - [x] AWS SNS
-- [ ] AWS Elastic Load Balancer
-- [ ] AWS ECR (Elastic Container Registry)
-- [ ] AWS ECS (Elastic Container Service)
-- [ ] AWS EKS (Elastic Kubernetes Service)
-- [ ] EC2 Instances
+- [x] AWS Route 53
+- [x] AWS API Gateway
+- [x] AWS STS
+- [x] AWS Elastic Load Balancer
+- [x] AWS ECR (Elastic Container Registry)
+- [x] AWS ECS (Elastic Container Service)
+- [x] EC2 Instances
+- [x] AWS Systems Manager (Secrets Manager)
+- [x] AWS KMS
+- [x] AWS EFS
+- [x] AWS Amplify
 - [ ] AWS Networking (VPC)
-- [ ] AWS Security
-- [ ] AWS Route 53
 - [ ] AWS CloudFormation
 - [ ] AWS CodeCommit
 - [ ] AWS CodePipeline
@@ -24,7 +28,4 @@
 - [ ] AWS CodeDeploy
 - [ ] AWS CloudWatch
 - [ ] AWS CloudFront
-- [ ] AWS Systems Manager (Secrets Manager)
-- [ ] Create Infrastructure using Terraform Project
-- [ ] AWS CloudTrail and Config
-- [ ] Secure VPC Setup with EC2 Instances Project
+- [ ] AWS EKS (Elastic Kubernetes Service)
