@@ -1,6 +1,7 @@
 {
-  "name": "neptune",
+  "name": "secrets-manager",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@aws-sdk/client-neptune": "^3.540.0"
-  },
-  "description": ""
+    "@aws-sdk/client-secrets-manager": "^3.540.0"
+  }
 }

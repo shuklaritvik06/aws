@@ -5,10 +5,11 @@
 - [x] AWS RDS
 - [x] AWS DynamoDB
 - [x] AWS Lambda
-- [ ] AWS Neptune
+- [x] AWS SQS
+- [x] AWS Secrets Manager
+- [x] AWS Neptune
+- [x] AWS SNS
 - [ ] AWS Elastic Load Balancer
-- [ ] AWS SNS
-- [ ] AWS SQS
 - [ ] AWS ECR (Elastic Container Registry)
 - [ ] AWS ECS (Elastic Container Service)
 - [ ] AWS EKS (Elastic Kubernetes Service)
