@@ -1,25 +1,25 @@
 # AWS
 
-- [x] IAM (Identity and Access Management)
-- [x] Amazon S3
-- [x] AWS RDS
-- [x] AWS DynamoDB
-- [x] AWS Lambda
-- [x] AWS SQS
-- [x] AWS Secrets Manager
-- [x] AWS Neptune
-- [x] AWS SNS
-- [x] AWS Route 53
-- [x] AWS API Gateway
-- [x] AWS STS
-- [x] AWS Elastic Load Balancer
-- [x] AWS ECR (Elastic Container Registry)
-- [x] AWS ECS (Elastic Container Service)
-- [x] EC2 Instances
-- [x] AWS Systems Manager (Secrets Manager)
-- [x] AWS KMS
-- [x] AWS EFS
-- [x] AWS Amplify
+- [ ] IAM (Identity and Access Management)
+- [ ] Amazon S3
+- [ ] AWS RDS
+- [ ] AWS DynamoDB
+- [ ] AWS Lambda
+- [ ] AWS SQS
+- [ ] AWS Secrets Manager
+- [ ] AWS Neptune
+- [ ] AWS SNS
+- [ ] AWS Route 53
+- [ ] AWS API Gateway
+- [ ] AWS STS
+- [ ] AWS Elastic Load Balancer
+- [ ] AWS ECR (Elastic Container Registry)
+- [ ] AWS ECS (Elastic Container Service)
+- [ ] EC2 Instances
+- [ ] AWS Systems Manager (Secrets Manager)
+- [ ] AWS KMS
+- [ ] AWS EFS
+- [ ] AWS Amplify
 - [ ] AWS Networking (VPC)
 - [ ] AWS CloudFormation
 - [ ] AWS CodeCommit
