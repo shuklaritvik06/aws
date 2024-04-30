@@ -1,14 +1,14 @@
 # AWS
 
-- [ ] IAM (Identity and Access Management)
-- [ ] Amazon S3
-- [ ] AWS RDS
-- [ ] AWS DynamoDB
-- [ ] AWS Lambda
-- [ ] AWS SQS
-- [ ] AWS Secrets Manager
+- [x] Amazon S3
+- [x] AWS RDS
+- [x] AWS DynamoDB
+- [x] AWS Lambda
+- [x] AWS SQS
+- [x] AWS Secrets Manager
+- [x] IAM (Identity and Access Management)
+- [x] AWS SNS
 - [ ] AWS Neptune
-- [ ] AWS SNS
 - [ ] AWS Route 53
 - [ ] AWS API Gateway
 - [ ] AWS STS
