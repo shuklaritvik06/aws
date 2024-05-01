@@ -8,6 +8,7 @@
 - [x] AWS Secrets Manager
 - [x] IAM (Identity and Access Management)
 - [x] AWS SNS
+- [x] AWS KMS
 - [ ] AWS Neptune
 - [ ] AWS Route 53
 - [ ] AWS API Gateway
@@ -17,7 +18,6 @@
 - [ ] AWS ECS (Elastic Container Service)
 - [ ] EC2 Instances
 - [ ] AWS Systems Manager (Secrets Manager)
-- [ ] AWS KMS
 - [ ] AWS EFS
 - [ ] AWS Amplify
 - [ ] AWS Networking (VPC)
