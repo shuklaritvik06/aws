@@ -88,3 +88,23 @@ A VPC is a secure, isolated section of a cloud provider's network where you can 
 
 **Layman Example: Security Guard Station**
 - A security guard station where authorized personnel check in before being allowed to access private apartments.
+
+### Stateless Firewall
+
+**Technical:**
+- A stateless firewall filters packets based solely on predefined rules, without keeping track of the state of network connections.
+- Each packet is evaluated independently against the rules, meaning it doesn't consider previous packets.
+
+**Layman Example:**
+- Imagine a security guard at a gate who checks each visitor's ID without remembering who they are or why they came in earlier.
+- Every time someone wants to enter, they need to present their ID, and the guard verifies it against a list of allowed IDs.
+
+### Stateful Firewall
+
+**Technical:**
+- A stateful firewall keeps track of the state of active connections and makes decisions based on the context of the traffic.
+- It maintains a table of active connections and uses this information to allow or deny packets.
+
+**Layman Example:**
+- Imagine a security guard who not only checks IDs but also keeps a log of who has entered, why they are there, and their expected duration of stay.
+- If someone leaves and tries to come back, the guard remembers their previous entry and the context, making it easier to decide if they should be allowed in again.
