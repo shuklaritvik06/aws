@@ -10,6 +10,8 @@
 - [x] AWS SNS
 - [x] AWS KMS
 - [x] AWS EC2
+
+## Remaining
 - [ ] AWS Neptune
 - [ ] AWS Route 53
 - [ ] AWS API Gateway
