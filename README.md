@@ -9,6 +9,7 @@
 - [x] IAM (Identity and Access Management)
 - [x] AWS SNS
 - [x] AWS KMS
+- [x] AWS EC2
 - [ ] AWS Neptune
 - [ ] AWS Route 53
 - [ ] AWS API Gateway
