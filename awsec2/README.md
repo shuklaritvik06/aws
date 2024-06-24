@@ -1,5 +1,7 @@
 # EC2 Concepts
 
+![1_NBWWy5nFPnPiSSiqyvU94A](https://github.com/shuklaritvik06/aws/assets/72812470/cc89cc5c-5919-4a9e-b7db-ad955aa2aed2)
+
 Burstable performance instances in AWS (such as T2, T3, T3a, and T4g) are a type of virtual server that can handle
 variable workloads efficiently. These instances can burst, or temporarily increase their CPU performance, above the
 baseline when needed.
