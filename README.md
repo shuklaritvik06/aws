@@ -20,10 +20,10 @@
 - [x] AWS ECS (Elastic Container Service)
 - [x] AWS Elastic Load Balancer
 - [x] AWS Certificate Manager
+- [x] AWS Route 53
 
 ## Remaining
 - [ ] AWS Neptune
-- [ ] AWS Route 53
 - [ ] AWS API Gateway
 - [ ] AWS STS
 - [ ] AWS Systems Manager (Secrets Manager)
