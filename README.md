@@ -21,14 +21,4 @@
 - [x] AWS Elastic Load Balancer
 - [x] AWS Certificate Manager
 - [x] AWS Route 53
-
-## Remaining
-- [ ] AWS Neptune
-- [ ] AWS API Gateway
-- [ ] AWS STS
-- [ ] AWS Systems Manager (Secrets Manager)
-- [ ] AWS Amplify
-- [ ] AWS CodeCommit
-- [ ] AWS CodePipeline
-- [ ] AWS CodeBuild
-- [ ] AWS CodeDeploy
+- [x] AWS Amplify
