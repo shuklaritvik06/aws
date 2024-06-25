@@ -19,6 +19,7 @@
 - [x] AWS ECR (Elastic Container Registry)
 - [x] AWS ECS (Elastic Container Service)
 - [x] AWS Elastic Load Balancer
+- [x] AWS Certificate Manager
 
 ## Remaining
 - [ ] AWS Neptune
