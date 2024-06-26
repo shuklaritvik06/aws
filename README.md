@@ -22,3 +22,4 @@
 - [x] AWS Certificate Manager
 - [x] AWS Route 53
 - [x] AWS Amplify
+- [x] AWS Lex
